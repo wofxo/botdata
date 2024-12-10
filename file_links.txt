@@ -1,0 +1,3 @@
+image1 https://netfapx.com/wp-content/uploads/2018/09/L.A.-Titness-350x197.jpg
+video1 https://videos.netfapx.com/6GB5aszPGZfm1IICV2ixuA/1733838631/57819.mp4
+document1 https://example.com/path/to/document.pdf
